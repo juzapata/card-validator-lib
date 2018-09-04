@@ -10,6 +10,7 @@ Exemplo de uso:
 
 $node
 > let validate = require("card-validator-lib")
+
 > validate(5293230347113647); //true
 
 > validate(5293230347111647); //false
