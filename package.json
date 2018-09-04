@@ -1,5 +1,5 @@
 {
-  "name": "validador",
+  "name": "validadordajujuzeeenha",
   "version": "1.0.0",
   "description": "card validator library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dnumber card validaotr lib",
   "main": "index.js",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/juzapata/card-validator-lib/issues"
   },
-  "homepage": "https://github.com/juzapata/card-validator-lib#readme"
+  "homepage": "https://github.com/juzapata/card-validator-lib#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
 }

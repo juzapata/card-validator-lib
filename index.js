@@ -1,14 +1,13 @@
 module.exports.cardValidator = function cardValidator(cardNum){
     if (cardNum === undefined){
         throw new Error ("prencha o parâmetro da função");
-      }
+    }
     if (typeof cardNum === "string"){
         throw new Error ("o parametro precisa ser do tipo Number");
     }
-     
-    
-    let reversedNum = cardNum.toString().split("").map((i) => {
-      return parseInt(i, 10)
+    let reversedNum = cardNum.toString().split("")
+    .map((i) => {
+        return parseInt(i, 10)
       }).reverse();
       if (reversedNum.length === 1){
         throw new Error ("não pode ter somente um digito");

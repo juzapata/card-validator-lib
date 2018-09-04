@@ -17,9 +17,6 @@ $node
 
 Versão 1.0.0
 - funcionalidades: validação de números de cartões de crédito;
-- Correção de bug de quando não houver parâmetro, deve lançar um erro.
-- Correção de bug de quando o número for uma string deve lançar um erro.
-- Correção de bug de quando o número for um inteiro e houver um digito deve lançar um erro.
 
 Instalação
 
@@ -27,3 +24,8 @@ Você deverá ter o node + npm instalados. Para guia de instalação, visite htt
 Proceda com a instalação com $npm install card-validator-lib
 
 Roadmap oficial do projeto
+
+Versão 1.0.1
+- Correção de bug de quando não houver parâmetro, deve lançar um erro.
+- Correção de bug de quando o número for uma string deve lançar um erro.
+- Correção de bug de quando o número for um inteiro e houver um digito deve lançar um erro.
