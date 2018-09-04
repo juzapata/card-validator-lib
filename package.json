@@ -1,0 +1,22 @@
+{
+  "name": "validador",
+  "version": "1.0.0",
+  "description": "card validator library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dnumber card validaotr lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juzapata/card-validator-lib.git"
+  },
+  "keywords": [
+    "\"validador\""
+  ],
+  "author": "Julia Zapata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juzapata/card-validator-lib/issues"
+  },
+  "homepage": "https://github.com/juzapata/card-validator-lib#readme"
+}
