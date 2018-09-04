@@ -11,6 +11,7 @@ Exemplo de uso:
 $node
 > let validate = require("card-validator-lib")
 > validate(5293230347113647); //true
+
 > validate(5293230347111647); //false
 
 Versão 1.0.0
@@ -19,6 +20,7 @@ Versão 1.0.0
 Instalação
 
 Você deverá ter o node + npm instalados. Para guia de instalação, visite https://www.npmjs.com/get-npm.
-proceda com a instalação com $npm install card-validator-lib
+
+Proceda com a instalação com $npm install card-validator-lib
 
 Roadmap oficial do projeto
