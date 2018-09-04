@@ -20,7 +20,6 @@ Versão 1.0.0
 Instalação
 
 Você deverá ter o node + npm instalados. Para guia de instalação, visite https://www.npmjs.com/get-npm.
-
 Proceda com a instalação com $npm install card-validator-lib
 
 Roadmap oficial do projeto
