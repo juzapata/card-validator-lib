@@ -10,7 +10,7 @@ Exemplo de uso:
 
 ```
 $node
-> let validate = require("card-validator-lib")
+> let validate = require("validadordajujuzeeenha")
 
 > validate(5293230347113647); //true
 
@@ -25,7 +25,7 @@ $node
 ## Instalação
 
 - Você deverá ter o node + npm instalados. Para guia de instalação, visite o [site oficial] (https://www.npmjs.com/get-npm).
-- Proceda com a instalação com `$npm install card-validator-lib`
+- Proceda com a instalação com `$npm install validadordajujuzeeenha`
 
 ## Roadmap oficial do projeto
 
