@@ -1,6 +1,6 @@
 {
   "name": "validador-julia-zapata",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "card validator library\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dnumber card validaotr lib",
   "main": "index.js",
   "scripts": {
