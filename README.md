@@ -31,16 +31,18 @@ $node
 ## Versão 1.0.2
 - Correção do estilo do código (utilizando o Eslint)
 
-## Versão 1.0.1
+## Versão 1.0.3
 - Correção de bug de quando não houver parâmetro, deve lançar um erro.
 - Correção de bug de quando o número for uma string deve lançar um erro.
 - Correção de bug de quando o número for um inteiro e houver um digito deve lançar um erro.
 
-## Versão 1.0.1
+## Versão 1.0.4
 - Estilização do README.md
 - Correção do nome da biblioteca no READM.md
 - Conserto de erros de estilo do código, pelo Elint
 
+## Versão 1.0.5
+- Correção de conteúdo do README.md
 
 
 
